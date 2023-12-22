@@ -39,8 +39,6 @@ function App() {
     setBall([
       {number: newNumbers[0]},
       {number: newNumbers[1]},
-      {number: newNumbers[1]},
-      {number: newNumbers[1]},
       {number: newNumbers[2]},
       {number: newNumbers[3]},
       {number: newNumbers[4]},
